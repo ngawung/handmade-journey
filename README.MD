@@ -1,0 +1,6 @@
+## This is my Journey for following Handmade Hero series
+
+i dont know how long i can follow this series...
+i hope i learn all sort of new experience here...
+
+[https://handmadehero.org](https://handmadehero.org)
