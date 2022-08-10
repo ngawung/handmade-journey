@@ -1,0 +1,3 @@
+ohh nice endianess thingy....
+
+dive into memory even more and
