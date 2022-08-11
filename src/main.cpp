@@ -1,12 +1,12 @@
-#include <windows.h>
+#include <raylib.h>
 
+int main() {
+	InitWindow(600, 400, "Handmade but raylib lmao");
 
-int CALLBACK WinMain(
-  HINSTANCE hInstance,
-  HINSTANCE hPrevInstance,
-  LPSTR     lpCmdLine,
-  int       nShowCmd
-) {
-    MessageBox(0, "Hello Handmade hero", "Handmade Hero", MB_ICONINFORMATION | MB_OK);
-    return 0;
+	while(!WindowShouldClose()) {
+		BeginDrawing();
+			ClearBackground(RAYWHITE);
+		EndDrawing();
+	}
+	return 0;
 }
